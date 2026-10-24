@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://turaheza.vercel.app/sitemap.xml
